@@ -58,7 +58,7 @@ Ensure the image paths and filenames below match the files in your `screenshots/
 
 ### 3.1 Home Page
 
-![iMovies Home Page](screenshots/Home.png)
+![iMovies Home Page](screenshots/Homepage.png)
 
 The landing page introduces the application and provides access to the movie browsing experience.
 
